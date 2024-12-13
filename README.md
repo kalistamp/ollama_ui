@@ -20,6 +20,13 @@ Now try running npm again:
 ```npm install```
 
 
+***
+***
+***
+
+
+
+
 
 # The Man Studios' Ollama UI
 
