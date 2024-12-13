@@ -24,6 +24,9 @@ Run using batch file after you cd into the tools directory:
 ```.\start.bat```
 
 
+[!] THIS REPO IS FROM A [FORKED VERSION](https://github.com/TheManStudios/tms-ollama-ui/tree/main) OF A UI REPO, THIS IS THE [O.G. REPO](https://github.com/ollama-ui/ollama-ui)
+
+
 
 ***
 ***
