@@ -1,3 +1,26 @@
+
+### PERSONAL NOTES
+
+* npm must be installed and is required on windows you will be blockled you must open with these commmands:
+
+Run this command to check your current execution policy:
+
+```powershellCopyGet-ExecutionPolicy```
+
+Then run this command to allow script execution:
+
+```powershellCopySet-ExecutionPolicy RemoteSigned```
+
+When prompted, type 'Y' and press Enter
+
+Now try running npm again:
+
+```powershellCopynpm --version```
+
+```npm install```
+
+
+
 # The Man Studios' Ollama UI
 
 Project is basically dead, sorry.
