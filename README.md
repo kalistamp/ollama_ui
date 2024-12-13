@@ -19,6 +19,11 @@ Now try running npm again:
 
 ```npm install```
 
+Run using batch file after you cd into the tools directory:
+
+```.\start.bat```
+
+
 
 ***
 ***
