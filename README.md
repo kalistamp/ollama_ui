@@ -1,6 +1,8 @@
 
 ### PERSONAL NOTES
 
+* Dont forget ```ollama serve``` must be running for the UI to work
+
 * npm must be installed and is required on windows you will be blockled you must open with these commmands:
 
 Run this command to check your current execution policy:
